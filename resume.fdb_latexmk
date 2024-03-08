@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1709877217 "/Users/alex/Developer/huesing-latex-resume/resume.tex" "resume.pdf" "resume" 1709877217 2
+  "/Users/alex/Developer/huesing-latex-resume/resume.tex" 1709877215 3765 6308ed49c47053bc662f01f8c355ae88 ""
+  "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
+  "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 53a9aad02a5b14fbfbcc78ec177fdd6d ""
+  "awesome-cv.cls" 0 -1 0 ""
+  "resume.aux" 1709877217 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1709877215 3765 6308ed49c47053bc662f01f8c355ae88 ""
+  (generated)
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
+  (rewritten before read)

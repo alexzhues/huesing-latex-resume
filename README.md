@@ -1,3 +1,6 @@
+
+![huesing-latex-resume](icon.svg) 
+
 # huesing-latex-resume
 
 This repository contains the LaTeX source files for my professional resume. Feel free to use or adapt the template for your own needs.
